@@ -15,6 +15,6 @@ NeoBundle
 ------------------
 vim / termite / i3 / fish / glava / mpd /
 ncmpcpp / neofetch / polybar / ranger / vis /
-emacs / bash / zsh / tmux
+emacs / bash / zsh / tmux / mutt
 
 ![desktop IMG](https://github.com/NTGNL/DebianRice/blob/master/img0.png)
