@@ -11,4 +11,4 @@ i3gaps
 NeoBundle
 (will add full list in later iterations)
 
-![Image of Yaktocat](https://github.com/NTGNL/DebianRice/img0.png)
+![desktop IMG](https://github.com/NTGNL/DebianRice/blob/master/img0.png)
